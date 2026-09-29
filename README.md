@@ -68,3 +68,19 @@ python main.py
 <img width="557" height="280" alt="image" src="https://github.com/user-attachments/assets/f5a74617-3055-49a8-8c8b-2f4b346aa5a4" />
 
 
+<img width="445" height="786" alt="image" src="https://github.com/user-attachments/assets/5c9cbe0d-b667-414f-95e7-0a06908e760f" />
+
+
+2. Invalid Input & Graceful Exit
+
+
+<img width="461" height="292" alt="image" src="https://github.com/user-attachments/assets/dba37ca5-7014-4369-8d67-d74bde6fbd59" />
+
+📌 Future Improvements
+1. Alarm clock
+2. Making pokeTab
+3. Making GUI
+   
+
+
+

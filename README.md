@@ -33,30 +33,29 @@ Environment: VS Code & Terminal / PowerShell
 Getting this up and running on your machine takes less than a minute.
 
 Prerequisites
+
+
 Make sure Python is installed on your computer:
 
-Bash
-python --version
+<img width="616" height="157" alt="image" src="https://github.com/user-attachments/assets/fb433dcf-927a-4ae6-ad52-11c63c716518" />
+
 
 QUICK START STEPS
 
 1.Clone this repository:
 
-Bash
+<img width="697" height="97" alt="image" src="https://github.com/user-attachments/assets/efd09349-f4ba-4d02-8229-2eb179ed3453" />
 
-git clone https://github.com/your-username/RockPaperPython.git
 
 2.Move into Python folder:
 
-Bash
+<img width="527" height="110" alt="image" src="https://github.com/user-attachments/assets/fc75213a-689a-4584-b018-4f5ecd53b67e" />
 
-cd RockPaperPython
 
 3.Run the script:
 
-Bash
+<img width="527" height="112" alt="image" src="https://github.com/user-attachments/assets/93d3dc9f-771e-4c29-b11b-48ca9ee22d0b" />
 
-python main.py
 
 (If your entry file is named differently, like game.py or app.py, replace main.py with your filename).
 

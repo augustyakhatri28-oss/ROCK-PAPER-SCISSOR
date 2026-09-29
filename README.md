@@ -43,17 +43,21 @@ QUICK START STEPS
 1.Clone this repository:
 
 Bash
+
 git clone https://github.com/your-username/RockPaperPython.git
 
 2.Move into Python folder:
 
 Bash
+
 cd RockPaperPython
 
 3.Run the script:
 
 Bash
+
 python main.py
+
 (If your entry file is named differently, like game.py or app.py, replace main.py with your filename).
 
 
@@ -61,5 +65,6 @@ python main.py
 
 📸 Testing & Screenshots
 
+<img width="557" height="280" alt="image" src="https://github.com/user-attachments/assets/f5a74617-3055-49a8-8c8b-2f4b346aa5a4" />
 
 

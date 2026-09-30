@@ -21,7 +21,7 @@ The game consists of a maximum of three rounds and ends early if the player secu
 
 - Final result announcement based on game statistics.
 
-##Objective
+## Objective
 
 This project aims to strengthen fundamental Python programming skills, including the use of functions, loops, conditional statements, exception handling, user input, and random number generation through a fun and engaging game.
     
